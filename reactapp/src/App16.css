@@ -1,0 +1,32 @@
+.maindiv{
+    background-color: #000045;
+    color:white;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.childdiv{
+    height:50vh;
+    width:50vw;
+    background-color: white;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.subchilddiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listitems{
+    display:flex;
+    list-style: none;
+}

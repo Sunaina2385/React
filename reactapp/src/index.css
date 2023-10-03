@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.heading{
+  color:#fa9191;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-top:3%;
+  font-size: 3em;
+  text-shadow: 0px 3px 6px black;
+  font-family: 'Fuggles', cursive;
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}

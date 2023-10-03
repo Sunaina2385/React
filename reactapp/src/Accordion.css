@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.accordion{
+    background-color: #cec6c6;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordSection{
+    background-color: white;
+    height:auto;
+    width:50vw;
+}
+
+.mainHeading{
+    background-color: cadetblue;
+    display: flex;
+    ;
+}
+
+.btn{
+    background-color: yellow;
+    border-radius: 50%;
+}
